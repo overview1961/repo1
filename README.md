@@ -1,1 +1,2 @@
-# repo1
+# My First Repo!
+Learning to code.
